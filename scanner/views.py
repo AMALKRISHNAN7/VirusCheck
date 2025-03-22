@@ -6,7 +6,7 @@ import requests
 import json  
 
 # Replace with your VirusTotal API Key
-VIRUSTOTAL_API_KEY = "674fd453a8627d2e8640aaea9925f3be7f8a933f170690aac4362741957b01e4"
+VIRUSTOTAL_API_KEY = "-----------API KEY------------"
 
 def check_ip_virustotal(ip_address):
     url = f"https://www.virustotal.com/api/v3/ip_addresses/{ip_address}"
