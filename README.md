@@ -13,7 +13,7 @@ VirusCheck is a Django-based web application similar to VirusTotal . It allows u
 ### Prerequisites
 - Python 3.x
 - Django
-- Virtual environment (recommended)
+- Virtual environment ( recommended )
 
 ### Setup Steps
 1. Clone the repository:
