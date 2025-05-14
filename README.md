@@ -3,11 +3,11 @@
 VirusCheck is a Django-based web application similar to VirusTotal . It allows users to scan URLs, file hashes, files, and IP addresses to determine if they are malicious. The application generates reports , stores scan results, and provides a verdict on scanned items.
 
 ## Features
-- Scan URLs, file hashes, files, and IP addresses
-- Generate detailed reports with charts and tables
-- Save scan history for future reference
-- Indicate whether a scanned item is malicious or not
-- User-friendly interface with Bootstrap styling
+- Scan URLs, file hashes, files, and IP addresses.
+- Generate detailed reports with charts and tables.
+- Save scan history for future reference.
+- Indicate whether a scanned item is malicious or not.
+- User-friendly interface with Bootstrap styling.
 
 ## Installation
 ### Prerequisites
